@@ -1,8 +1,8 @@
 {
-  "name": "Count20/pathfinder",
+  "name": "exodus4d/pathfinder",
   "description": "Mapping tool for EVE ONLINE",
   "type": "project",
-  "homepage": "https://github.com/Count20/pathfinder_esi",
+  "homepage": "https://github.com/exodus4d/pathfinder",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
